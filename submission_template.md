@@ -3,7 +3,7 @@
 ## Candidate
 
 - Name: Pascal Mugisha
-- Approximate time spent: 75minutes
+- Approximate time spent: 68minutes
 
 ---
 
